@@ -1,0 +1,9 @@
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\bin\Debug\Электронный журнал.exe.config
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\bin\Debug\Электронный журнал.exe
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\bin\Debug\Электронный журнал.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный журнал.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный_журнал.Form1.resources
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный_журнал.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный журнал.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный журнал.exe
+c:\users\александр\documents\visual studio 2012\Projects\Электронный журнал\Электронный журнал\obj\Debug\Электронный журнал.pdb
